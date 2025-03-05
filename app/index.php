@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
     <!-- esto es un comentario de valente para ver si le se al git jaja -->
-
+    <!-- esto es un comentario de valente 2  -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sistema Escolar - TecJalisco</title>
